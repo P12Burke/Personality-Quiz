@@ -1,0 +1,108 @@
+
+
+---------------------------------------
+		Inbox
+---------------------------------------
+1.
+2.
+3.
+4.
+
+5.Main Menu
+
+
+
+
+
+
+
+
+
+-----------------------------------
+		Spam
+-----------------------------------
+1.
+2.
+3.
+4.
+
+5. Main Menu
+
+
+
+-----------------------------------------
+		Main Menu
+-----------------------------------------
+1.Inbox
+2.Spam
+3.Log Out
+
+
+--------------------------------------------
+		Log-in to Email
+--------------------------------------------
+_______
+
+_______
+
+
+----------------------------------------------------------------
+		Subject:Your quiz results are in 
+----------------------------------------------------------------
+
+
+
+
+
+----------------------------------------------------------------
+		Subject:Canada Post-package Confirmation
+----------------------------------------------------------------
+
+This email is to confirm we have recived your package and it is in transit to it's desintation  
+
+Ship To:
+  H&M Returns
+  Unit B 300 Kennedy Road South
+  Brampton ON  L6W 4V2
+  CANADA
+ 
+Service Type: Expedited Parcels
+ 
+Delivery Standard:  June 08, 2017
+
+
+
+
+----------------------------------------------------------------
+		Subject:Canada Post-package Confirmation
+----------------------------------------------------------------
+
+This email is to confirm we have recived your package and it is in transit to it's desintation  
+
+Ship To:
+  H&M Returns
+  Unit B 300 Kennedy Road South
+  Brampton ON  L6W 4V2
+  CANADA
+ 
+Service Type: Expedited Parcels
+ 
+Delivery Standard:  June 08, 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
